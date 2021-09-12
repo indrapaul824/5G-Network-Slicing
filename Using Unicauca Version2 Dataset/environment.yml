@@ -1,0 +1,10 @@
+name: NetSlice
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - dask
+  - pip:
+      - pip-tools
