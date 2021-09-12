@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pandas
+plotly
+scikit-learn
+dask-ml
+dask-searchcv
+joblib
