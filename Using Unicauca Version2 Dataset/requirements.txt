@@ -25,6 +25,8 @@ cloudpickle==2.0.0
     #   dask
     #   dask-glm
     #   distributed
+colorama==0.4.4
+    # via click
 dask[array,dataframe]==2021.9.0
     # via
     #   dask-glm
