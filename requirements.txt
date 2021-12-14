@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+tensorflow
+pandas
+matplotlib
+seaborn
+openpyxl==3.0.7
+ipykernel
+mkl
