@@ -1,9 +1,9 @@
-name: DBN
+name: NetSlice
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.9
   - pip
   - pip:
       - pip-tools
