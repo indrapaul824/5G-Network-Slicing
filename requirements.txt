@@ -9,3 +9,9 @@ openpyxl==3.0.7
 ipykernel
 mkl
 xgboost
+statsmodels
+scikit-optimize
+mealpy
+tabnet
+Boruta
+wincertstore
